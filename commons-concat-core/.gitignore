@@ -1,0 +1,4 @@
+
+# ignore maven build directory
+
+target/
