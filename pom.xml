@@ -5,7 +5,7 @@
 
     <artifactId>commons-concat-parent</artifactId>
     <groupId>com.parisesoftware</groupId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Commons Concatenation :: Parent Pom</name>
     <description>Parent POM to the Commons Concatenation Library</description>
     <packaging>pom</packaging>
@@ -28,7 +28,7 @@
         <connection>scm:git:git://github.com/AParise1217/commons-concat.git</connection>
         <developerConnection>scm:git:git@github.com:AParise1217/commons-concat.git</developerConnection>
         <url>https://github.com/AParise1217/commons-concat</url>
-        <tag>HEAD</tag>
+        <tag>commons-concat-parent-1.0.0</tag>
     </scm>
 
     <licenses>
